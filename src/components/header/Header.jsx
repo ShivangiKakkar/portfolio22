@@ -3,6 +3,7 @@ import './header.css'
 import CTA from './CTA'
 import ME from '../../assets/mee.png'
 import HeaderSocials from './HeaderSocials'
+// import {CgCopyright} from 'react-icons/cg'
 
 const Header = () => {
   return (
@@ -18,6 +19,10 @@ const Header = () => {
         <HeaderSocials />
         <div className="me">
           <img src={ME} alt="me" />
+          <p>
+            {/* <CgCopyright className='ghc-icon'/> */}
+            Grace Hopper Celebration 2022
+          </p>
         </div>
 
         <a href="#contact" className='scroll__down'>Scroll Down</a>
