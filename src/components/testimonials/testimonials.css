@@ -35,14 +35,14 @@
 
 /* --------- MEDIA QUESRIES (MEDIUM DEVICES: TABS) ---------- */
 @media screen and (max-width: 1024px) {
-    .container.container.testimonials__container {
+    .container.testimonials__container {
         width: 60%;
     }
 }
 
 /* --------- MEDIA QUESRIES (SMALL DEVICES: MOBILE) ---------- */
 @media screen and (max-width: 600px) {
-    .container.container.testimonials__container {
+    .container.testimonials__container {
         width: var(--container-width-sm);
     }
 

@@ -19,7 +19,7 @@ const data = [
   {
       avatar: AVTR1,
       name: 'SHkdsnd dskndask',
-      review: 'kdnxbjakbd akdnakdb adhkadb ashdlakdn akdhdbakd xnakndakjsn sdkjnccs asdnakndal adsnkndakldn asndakjnaksd',
+      review: 'kdnxbjakbd akdnakdb adhkadb ashdlakdn akdhdbakd xnakndakjsn sdkjnccs asdnakndal adsnkndakldn asndakjnaksd kdnxbjakbd akdnakdb adhkadb ashdlakdn akdhdbakd xnakndakjsn sdkjnccs asdnakndal adsnkndakldn asndakjnaksd',
   },
   {
       avatar: AVTR2,

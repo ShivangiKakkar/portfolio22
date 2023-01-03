@@ -13,44 +13,44 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Crypto Currency Dashboard & Financial Visualization',
+    title: 'Modeling Climate Change using Big Data and Machine Learning',
     github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+    demo: 'https://docs.google.com/presentation/d/1YsgisSA9m66_RNMUovPiUja3lsIRXPyWI9gwuK8Mkp8/edit?usp=sharing'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Charts templates & infographics in Figma',
+    title: 'Machine Learning based Sudoku Solver',
     github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16580766-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    demo: 'https://docs.google.com/presentation/d/1tvwiqapdX9c-RgCTlFg7y4Ts73IwWlEyt0XAbbBkd6M/edit?usp=sharing'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Figma dashboard UI kit for data design web apps',
+    title: 'Threat Modeling - Research Project (Cybersecurity)',
     github: 'https://github.com',
     demo: 'https://dribbble.com/shots/17290917-Eclipse-Figma-dashboard-UI-kit-for-data-design-web-apps'
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Maintaining tasks and tracking progress',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16955822-Maintaining-tasks-and-tracking-progress'
+    title: 'A Journaling App using VueJS and TypeScript',
+    github: 'https://github.com/ShivangiKakkar/TO-DO-LIST1',
+    demo: 'https://github.com/ShivangiKakkar/TO-DO-LIST1'
   },
   {
     id: 5,
     image: IMG5,
-    title: 'Charts templates & infographics in Figma',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16580766-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    title: 'Imitating Amazon online store using React',
+    github: 'https://github.com/ShivangiKakkar/amazon-clone',
+    demo: 'https://clone-461ef.web.app/'
   },
   {
     id: 6,
     image: IMG6,
-    title: 'Charts templates & infographics in Figma',
-    github: 'https://github.com',
-    demo: 'https://dribbble.com/shots/16580766-Orion-UI-kit-Charts-templates-infographics-in-Figma'
+    title: 'Home Rental Aggregator Database Project',
+    Report: 'https://drive.google.com/file/d/19bkSckAb725Q0EgL_ck3oRfn9f6qEeEZ/view',
+    demo: 'https://drive.google.com/file/d/19bkSckAb725Q0EgL_ck3oRfn9f6qEeEZ/view'
   },
 
 ]
