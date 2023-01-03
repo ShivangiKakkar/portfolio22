@@ -23,7 +23,7 @@ const About = () => {
             <article className="about__card">
               <FaAward className="about__icon"/>
               <h5>Experience</h5>
-              <small>2+ Years of Working</small>
+              <small>1+ Years of Working</small>
             </article>
 
             <article className="about__card">
@@ -35,16 +35,17 @@ const About = () => {
             <article className="about__card">
               <VscFolderLibrary className="about__icon"/>
               <h5>Projects</h5>
-              <small>15+ Completed Projects</small>
+              <small>10+ Completed Projects</small>
             </article>
           </div>
 
-          <p>
-          The href attribute requires a valid value to be accessible. 
-          Provide a valid, navigable address as the href value. 
-          If you cannot provide a valid href, but still need the 
-          element to resemble a link, use a button and change it 
-          with appropriate styles.
+          <p> 
+            I’m excited to lend my abilities to process or solve problems for real-world benefits and transform 
+            organizations through developing and updating front-end user interfaces, back-end software development, 
+            and data analytics. The cornerstone of success in software development is listening, understanding and clearly 
+            communicating with stakeholders to design and implement technology solutions. I’ve got this!! <br /><br />
+            
+            “Any sufficiently advanced technology is indistinguishable from magic” - Arthur C. Clarke
           </p>
 
           <a href="#contact" className='btn btn-primary'> Let's Talk</a>
