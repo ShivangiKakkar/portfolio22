@@ -1,9 +1,9 @@
 import React from 'react'
 import './testimonials.css'
-import AVTR1 from '../../assets/avatar1.jpg'
-import AVTR2 from '../../assets/avatar2.jpg'
-import AVTR3 from '../../assets/avatar3.jpg'
-import AVTR4 from '../../assets/avatar4.jpg'
+import AVTR1 from '../../assets/LK.jpg'
+import AVTR2 from '../../assets/JK.jpg'
+import AVTR3 from '../../assets/EC.jpg'
+import AVTR4 from '../../assets/KH.jpg'
 
 // import Swiper core and required modules
 import { Pagination } from 'swiper';
@@ -18,22 +18,22 @@ import 'swiper/css/pagination';
 const data = [
   {
       avatar: AVTR1,
-      name: 'SHkdsnd dskndask',
-      review: 'kdnxbjakbd akdnakdb adhkadb ashdlakdn akdhdbakd xnakndakjsn sdkjnccs asdnakndal adsnkndakldn asndakjnaksd kdnxbjakbd akdnakdb adhkadb ashdlakdn akdhdbakd xnakndakjsn sdkjnccs asdnakndal adsnkndakldn asndakjnaksd',
+      name: 'Luke Crouch |  Privacy and Security Engineer at Mozilla',
+      review: '“Shivangi has made several impactful contributions to the company and in the process has added immensely to her repertoire. . . . It is also praiseworthy that she resolved [a] plethora of challenges that cropped up during coding with minimal supervision.”',
   },
   {
       avatar: AVTR2,
-      name: 'sfnssdfsk',
-      review: 'saknxjxnas aksdnalkdna asdnklda khdalndakndsak akndsladshiwhdk wjbdsw dsbwb swbj',
+      name: 'Jonathan Kingston | Security Developer at Mozilla',
+      review: 'With minimal supervision, Shivangi was able to get steady progress and implement changes within some complex code. She was also able to manage and triage a large swathe of bugs and show an independence that we require as an organization.”',
   },
   {
       avatar: AVTR3,
-      name: 'sdfns sdnfksn',
-      review: 'kdnxbjakbd akdnakdb adhkadb ashdlakdn akdhdbakd xnakndakjsn sdkjnccs asdnakndal adsnkndakldn asndakjnaksd',
+      name: 'Easwaran Chirakkal | Chair of Computer Science Dept., SUNY',
+      review: 'Lorem ipsum dolor sit amet. A dignissimos ratione aut eligendi quasi ut internos asperiores. Ut laudantium atque est officia fugiat in corrupti reiciendis in autem quae et quae dolor sed libero dolore id quam possimus.',
   },
   {
       avatar: AVTR4,
-      name: 'sdns sdkfnks',
+      name: 'Kaitlin Hoffmann',
       review: 'kdnxbjakbd akdnakdb adhkadb ashdlakdn akdhdbakd xnakndakjsn sdkjnccs asdnakndal adsnkndakldn asndakjnaksd',
   },
 ]
