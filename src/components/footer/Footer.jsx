@@ -22,11 +22,11 @@ const Footer = () => {
       </ul>
 
       <div className="footer__socials">
-        <a href="https://www.facebook.com/shivangi.kakkar.3/"><FaFacebookF/></a>
-        <a href="https://www.instagram.com/shivangikakkar/"><FiInstagram /></a>
-        <a href="https://twitter.com/shivangikakkar"><IoLogoTwitter/></a>
-        <a href="https://github.com/ShivangiKakkar"><RxGithubLogo /></a>
-        <a href="https://www.linkedin.com/in/shivangikakkarsuny/"><GrLinkedin /></a>
+        <a href="https://www.facebook.com/shivangi.kakkar.3/" target="_blank"><FaFacebookF/></a>
+        <a href="https://www.instagram.com/shivangikakkar/" target="_blank"><FiInstagram /></a>
+        <a href="https://twitter.com/shivangikakkar" target="_blank"><IoLogoTwitter/></a>
+        <a href="https://github.com/ShivangiKakkar" target="_blank"><RxGithubLogo /></a>
+        <a href="https://www.linkedin.com/in/shivangikakkarsuny/" target="_blank"><GrLinkedin /></a>
       </div>
 
       <div className="footer__copyright">
