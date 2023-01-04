@@ -17,60 +17,44 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>xdjnksbbdjkc sakdbkalsjbdkla badjkabd k</p>
+              <p>Well versed with the end-to-end development lifecycle of websites and web-apps on modern stacks</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>xdjnksbbdjkc sakdbkalsjbdkla badjkabd k</p>
+              <p>Passionate about design language and UX, which helps me translate ideas and briefs into natural, aesthetic front-end components</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>xdjnksbbdjkc sakdbkalsjbdkla badjkabd k</p>
+              <p>Exposed to working on complex backend implementation and optimization problems</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>xdjnksbbdjkc sakdbkalsjbdkla badjkabd k</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>xdjnksbbdjkc sakdbkalsjbdkla badjkabd k</p>
+              <p>Experienced in working with lean teams on large projects</p>
             </li>
           </ul>
         </article>
         {/* END OF  Website Development*/}
         <article className="service">
           <div className="service__head">
-            <h3>Backend Development</h3>
+            <h3>Data Science and Analytics</h3>
           </div>
 
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>xdjnksbbdjkc sakdbkalsjbdkla badjkabd k</p>
+              <p>Proficient with the language of choice for Data Science and Analytics - Python and all the standard open source libraries and toolkits</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>xdjnksbbdjkc sakdbkalsjbdkla badjkabd k</p>
+              <p>Skilled at the standard ETL and Data Definition process</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>xdjnksbbdjkc sakdbkalsjbdkla badjkabd k</p>
+              <p>Have hands-on experience and a keen interest in Applied Machine Learning</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>xdjnksbbdjkc sakdbkalsjbdkla badjkabd k</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>xdjnksbbdjkc sakdbkalsjbdkla badjkabd k</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>xdjnksbbdjkc sakdbkalsjbdkla badjkabd k</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>xdjnksbbdjkc sakdbkalsjbdkla badjkabd k</p>
+              <p>Have selected, adapted, trained and integrated multiple Machine Learning models on defined problem statements with real world data</p>
             </li>
           </ul>
         </article>
@@ -78,29 +62,25 @@ const Services = () => {
 
         <article className="service">
           <div className="service__head">
-            <h3>Data Analysis</h3>
+            <h3>Non Technical Skills</h3>
           </div>
 
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>xdjnksbbdjkc sakdbkalsjbdkla badjkabd k</p>
+              <p>I am a persistent, persevering individual with an unquenchable thirst for learning</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>xdjnksbbdjkc sakdbkalsjbdkla badjkabd k</p>
+              <p>Unshakeable work ethic - I do not stop till the work is done</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>xdjnksbbdjkc sakdbkalsjbdkla badjkabd k</p>
+              <p>I am an effective and empathetic communicator</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>xdjnksbbdjkc sakdbkalsjbdkla badjkabd k</p>
-            </li>
-            <li>
-              <BiCheck className='service__list-icon'/>
-              <p>xdjnksbbdjkc sakdbkalsjbdkla badjkabd k</p>
+              <p>Respect the importance of Teamwork and know when to ask for help</p>
             </li>
           </ul>
         </article>

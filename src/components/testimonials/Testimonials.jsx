@@ -34,7 +34,7 @@ const data = [
   {
       avatar: AVTR4,
       name: 'Kaitlin Hoffmann',
-      review: 'kdnxbjakbd akdnakdb adhkadb ashdlakdn akdhdbakd xnakndakjsn sdkjnccs asdnakndal adsnkndakldn asndakjnaksd',
+      review: 'Lorem ipsum dolor sit amet. A dignissimos ratione aut eligendi quasi ut internos asperiores. Ut laudantium atque est officia fugiat in corrupti reiciendis in autem quae et quae dolor sed libero dolore id quam possimus.',
   },
 ]
 
