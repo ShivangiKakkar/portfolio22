@@ -42,7 +42,7 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BiCheck className='service__list-icon'/>
-              <p>Proficient with the language of choice for Data Science and Analytics - Python and all the standard open source libraries and toolkits</p>
+              <p>Proficient with Python and the standard open source libraries and toolkits</p>
             </li>
             <li>
               <BiCheck className='service__list-icon'/>
