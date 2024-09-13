@@ -26,16 +26,16 @@ const data = [
       name: 'Jonathan Kingston | Security Developer at Mozilla',
       review: 'With minimal supervision, Shivangi was able to get steady progress and implement changes within some complex code. She was also able to manage and triage a large swathe of bugs and show an independence that we require as an organization.”',
   },
-  {
-      avatar: AVTR3,
-      name: 'Easwaran Chirakkal | Chair of Computer Science Dept., SUNY',
-      review: 'Lorem ipsum dolor sit amet. A dignissimos ratione aut eligendi quasi ut internos asperiores. Ut laudantium atque est officia fugiat in corrupti reiciendis in autem quae et quae dolor sed libero dolore id quam possimus.',
-  },
-  {
-      avatar: AVTR4,
-      name: 'Kaitlin Hoffmann',
-      review: 'Lorem ipsum dolor sit amet. A dignissimos ratione aut eligendi quasi ut internos asperiores. Ut laudantium atque est officia fugiat in corrupti reiciendis in autem quae et quae dolor sed libero dolore id quam possimus.',
-  },
+  // {
+  //     avatar: AVTR3,
+  //     name: 'Easwaran Chirakkal | Chair of Computer Science Dept., SUNY',
+  //     review: 'Lorem ipsum dolor sit amet. A dignissimos ratione aut eligendi quasi ut internos asperiores. Ut laudantium atque est officia fugiat in corrupti reiciendis in autem quae et quae dolor sed libero dolore id quam possimus.',
+  // },
+  // {
+  //     avatar: AVTR4,
+  //     name: 'Kaitlin Hoffmann',
+  //     review: 'Lorem ipsum dolor sit amet. A dignissimos ratione aut eligendi quasi ut internos asperiores. Ut laudantium atque est officia fugiat in corrupti reiciendis in autem quae et quae dolor sed libero dolore id quam possimus.',
+  // },
 ]
 
 const Testimonials = () => {

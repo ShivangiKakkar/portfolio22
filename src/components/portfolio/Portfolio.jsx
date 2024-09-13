@@ -21,7 +21,7 @@ const data = [
     id: 2,
     image: IMG2,
     title: 'Machine Learning based Sudoku Solver',
-    github: 'https://github.com',
+    github: 'https://github.com/ShivangiKakkar/sudoku-solver',
     demo: 'https://docs.google.com/presentation/d/1tvwiqapdX9c-RgCTlFg7y4Ts73IwWlEyt0XAbbBkd6M/edit?usp=sharing'
   },
   {
